@@ -1,0 +1,2 @@
+E:\hyf network\GBN\Debug\StopWait.exe
+E:\hyf network\SR\Debug\StopWait.exe

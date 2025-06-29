@@ -1,0 +1,1 @@
+双击每个文件夹里的*.sln文件，在Visual Studio里编译，然后双击生成的StopWait.exe文件运行即可

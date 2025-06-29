@@ -1,0 +1,8 @@
+{
+    packages = {
+        "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde",
+        "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf",
+        "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6",
+        "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a"
+    }
+}

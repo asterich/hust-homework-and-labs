@@ -1,0 +1,186 @@
+[
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_gpt.cpp.o", "gomoku_gpt.cpp"],
+  "file": "gomoku_gpt.cpp"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_ai.c.o", "gomoku_ai.c"],
+  "file": "gomoku_ai.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_board.c.o", "gomoku_board.c"],
+  "file": "gomoku_board.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/board_interact.c.o", "board_interact.c"],
+  "file": "board_interact.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_err.c.o", "gomoku_err.c"],
+  "file": "gomoku_err.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/button.c.o", "button.c"],
+  "file": "button.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_1p_with_ai.c.o", "gomoku_1p_with_ai.c"],
+  "file": "gomoku_1p_with_ai.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_game.c.o", "gomoku_game.c"],
+  "file": "gomoku_game.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/gomoku_draw.c.o", "gomoku_draw.c"],
+  "file": "gomoku_draw.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/__/common/image.c.o", "../common/image.c"],
+  "file": "../common/image.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/__/common/touch.c.o", "../common/touch.c"],
+  "file": "../common/touch.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/__/common/graphic.c.o", "../common/graphic.c"],
+  "file": "../common/graphic.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-I", "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include", "-I", "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include", "-I", "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include", "-I", "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include", "-o", "build/.objs/gomoku_1p_with_ai/linux/x86_64/release/__/common/task.c.o", "../common/task.c"],
+  "file": "../common/task.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/gomoku_ai.c.o", "gomoku_ai.c"],
+  "file": "gomoku_ai.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/gomoku_board.c.o", "gomoku_board.c"],
+  "file": "gomoku_board.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/gomoku_server.c.o", "gomoku_server.c"],
+  "file": "gomoku_server.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/board_interact.c.o", "board_interact.c"],
+  "file": "board_interact.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/gomoku_err.c.o", "gomoku_err.c"],
+  "file": "gomoku_err.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/button.c.o", "button.c"],
+  "file": "button.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/gomoku_game.c.o", "gomoku_game.c"],
+  "file": "gomoku_game.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/gomoku_draw.c.o", "gomoku_draw.c"],
+  "file": "gomoku_draw.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/__/common/image.c.o", "../common/image.c"],
+  "file": "../common/image.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/__/common/touch.c.o", "../common/touch.c"],
+  "file": "../common/touch.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/__/common/graphic.c.o", "../common/graphic.c"],
+  "file": "../common/graphic.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_server/linux/x86_64/release/__/common/task.c.o", "../common/task.c"],
+  "file": "../common/task.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/gomoku_ai.c.o", "gomoku_ai.c"],
+  "file": "gomoku_ai.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/gomoku_board.c.o", "gomoku_board.c"],
+  "file": "gomoku_board.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/board_interact.c.o", "board_interact.c"],
+  "file": "board_interact.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/gomoku_client.c.o", "gomoku_client.c"],
+  "file": "gomoku_client.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/gomoku_err.c.o", "gomoku_err.c"],
+  "file": "gomoku_err.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/button.c.o", "button.c"],
+  "file": "button.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/gomoku_game.c.o", "gomoku_game.c"],
+  "file": "gomoku_game.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/gomoku_draw.c.o", "gomoku_draw.c"],
+  "file": "gomoku_draw.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/__/common/image.c.o", "../common/image.c"],
+  "file": "../common/image.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/__/common/touch.c.o", "../common/touch.c"],
+  "file": "../common/touch.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/__/common/graphic.c.o", "../common/graphic.c"],
+  "file": "../common/graphic.c"
+},
+{
+  "directory": "/home/asterich/code/cpp/embedded/lab-2022-st/lab6",
+  "arguments": ["/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc", "-c", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common", "-I/home/asterich/code/cpp/embedded/lab-2022-st/lab6/../common/external/include", "-o", "build/.objs/gomoku_client/linux/x86_64/release/__/common/task.c.o", "../common/task.c"],
+  "file": "../common/task.c"
+}]

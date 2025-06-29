@@ -1,0 +1,10 @@
+{
+    errdata = "\27[01m\27[Kgomoku_draw.c:\27[m\27[K In function ‘\27[01m\27[Kdraw_multiline_text\27[m\27[K’:\
+\27[01m\27[Kgomoku_draw.c:103:58:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kpassing argument 7 of ‘\27[01m\27[Kdraw_text\27[m\27[K’ discards ‘\27[01m\27[Kconst\27[m\27[K’ qualifier from pointer target type [\27[01;35m\27[K-Wdiscarded-qualifiers\27[m\27[K]\
+  103 |         draw_text(x, y, width, height, font_size, color, \27[01;35m\27[Kline_start\27[m\27[K);\
+      |                                                          \27[01;35m\27[K^~~~~~~~~~\27[m\27[K\
+\27[01m\27[Kgomoku_draw.c:62:85:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kexpected ‘\27[01m\27[Kchar *\27[m\27[K’ but argument is of type ‘\27[01m\27[Kconst char *\27[m\27[K’\
+   62 | void draw_text(int x, int y, int width, int height, int font_size, int color, \27[01;36m\27[Kchar *text\27[m\27[K) {\
+      |                                                                               \27[01;36m\27[K~~~~~~^~~~\27[m\27[K\
+"
+}

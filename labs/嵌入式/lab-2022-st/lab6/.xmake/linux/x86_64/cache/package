@@ -1,0 +1,97 @@
+{
+    nlohmann_json = {
+        __enabled = true,
+        __requirestr = "nlohmann_json",
+        sysincludedirs = "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/include",
+        envs = {
+            LD_LIBRARY_PATH = {
+                "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde/lib"
+            }
+        },
+        version = "v3.11.3",
+        installdir = "/home/asterich/.xmake/packages/n/nlohmann_json/v3.11.3/ec1183311a224b34b5c138edda96fdde",
+        license = "MIT"
+    },
+    openssl = {
+        libfiles = {
+            "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/lib/libssl.a",
+            "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/lib/libcrypto.a"
+        },
+        __enabled = true,
+        static = true,
+        linkdirs = "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/lib",
+        __requireconfs = {
+            arch = "arm64-v8a",
+            configs = {
+                toolchains = "aarch64-none-linux-gnu"
+            },
+            plat = "cross",
+            system = false
+        },
+        links = {
+            "ssl",
+            "crypto"
+        },
+        __requirestr = "openssl",
+        syslinks = {
+            "pthread",
+            "dl"
+        },
+        version = "1.1.1-w",
+        installdir = "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf",
+        sysincludedirs = "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include"
+    },
+    ["utf8.h"] = {
+        __enabled = true,
+        installdir = "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a",
+        __requirestr = "utf8.h",
+        sysincludedirs = "/home/asterich/.xmake/packages/u/utf8.h/2022.07.04/1173a6775b6a4702b4cc840d7462df8a/include",
+        __requireconfs = {
+            arch = "arm64-v8a",
+            configs = {
+                toolchains = "aarch64-none-linux-gnu"
+            },
+            plat = "cross",
+            system = false
+        },
+        version = "2022.07.04"
+    },
+    libcurl = {
+        libfiles = {
+            "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/lib/libcurl.a",
+            "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/lib/libssl.a",
+            "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/lib/libcrypto.a"
+        },
+        __enabled = true,
+        static = true,
+        sysincludedirs = {
+            "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/include",
+            "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/include"
+        },
+        __requireconfs = {
+            arch = "arm64-v8a",
+            configs = {
+                toolchains = "aarch64-none-linux-gnu"
+            },
+            plat = "cross",
+            system = false
+        },
+        links = {
+            "curl",
+            "ssl",
+            "crypto"
+        },
+        linkdirs = {
+            "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6/lib",
+            "/home/asterich/.xmake/packages/o/openssl/1.1.1-w/a90923666d584f37971a64ee23c691bf/lib"
+        },
+        installdir = "/home/asterich/.xmake/packages/l/libcurl/8.5.0/95ca5b5fe2e246db93855a1d9145b8e6",
+        syslinks = {
+            "pthread",
+            "dl"
+        },
+        version = "8.5.0",
+        __requirestr = "libcurl",
+        license = "MIT"
+    }
+}

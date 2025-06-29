@@ -1,0 +1,9 @@
+/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-ar: creating apps/libapps.a
+/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-ar: creating libssl.a
+/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-ar: creating test/libtestutil.a
+/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-ar: creating libcrypto.a
+configure: WARNING: using cross tools not prefixed with host triplet
+configure: WARNING: zlib disabled
+configure: WARNING: the previous check could not be made default was used
+configure: WARNING: skipped the /dev/urandom detection when cross-compiling
+configure: WARNING: skipped the ca-cert path detection when cross-compiling

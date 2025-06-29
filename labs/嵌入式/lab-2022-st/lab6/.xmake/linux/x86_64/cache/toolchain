@@ -1,0 +1,80 @@
+{
+    tool_target_gomoku_1p_with_ai_linux_x86_64_ld = {
+        toolname = "gxx",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-g++"
+    },
+    tool_target_gomoku_client_linux_x86_64_cc = {
+        toolname = "gcc",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc"
+    },
+    tool_target_gomoku_1p_with_ai_linux_x86_64_cc = {
+        toolname = "gcc",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc"
+    },
+    tool_target_gomoku_client_linux_x86_64_ld = {
+        toolname = "gxx",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-g++"
+    },
+    ["aarch64-none-linux-gnu_arch_x86_64_plat_linux"] = {
+        cross = "aarch64-none-linux-gnu-",
+        __global = true,
+        plat = "linux",
+        bindir = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin",
+        sdkdir = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/",
+        arch = "x86_64"
+    },
+    tool_target_gomoku_server_linux_x86_64_cc = {
+        toolname = "gcc",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc"
+    },
+    tool_target_gomoku_1p_with_ai_linux_x86_64_cxx = {
+        toolname = "gcc",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-gcc"
+    },
+    tool_target_gomoku_server_linux_x86_64_ld = {
+        toolname = "gxx",
+        toolchain_info = {
+            cachekey = "aarch64-none-linux-gnu_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "aarch64-none-linux-gnu",
+            arch = "x86_64"
+        },
+        program = "/home/asterich/code/cpp/embedded/gcc-arm-aarch64-linux-gnu/bin/aarch64-none-linux-gnu-g++"
+    }
+}
