@@ -1,0 +1,15 @@
+[submodule "labs/组原课设/团队任务代码/minesweeper"]
+        url = https://github.com/kitsu418/minesweeper.git
+        active = true
+[submodule "labs/程序设计课设/pluma_formatter"]
+        url = https://github.com/asterich/pluma_formatter
+        active = true
+[submodule "labs/数据结构实验/hust_data_structure_lab_2022"]
+        url = https://github.com/asterich/hust_data_structure_lab_2022.git
+        active = true
+[submodule "labs/并行计算/parallel_computing_lab/conv"]
+        url = https://github.com/asterich/conv.git
+        active = true
+[submodule "labs/程序设计课设-代码格式化/pluma_formatter"]
+        url = https://github.com/asterich/pluma_formatter
+        active = true
