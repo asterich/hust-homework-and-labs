@@ -1,0 +1,1 @@
+我们组的团队任务是一个上了板子的扫雷游戏，软件部分参见 [minesweeper/](minesweeper/)，硬件部分 [riscv_cpu_with_mouse](riscv_cpu_with_mouse.zip) 基于 https://github.com/Enter-tainer/simplerv.git ，感谢 [ikitsu](https://github.com/kitsu418) 、 [vc](https://github.com/VichyTong) 和 [zbtrs](https://github.com/zbtrs)
